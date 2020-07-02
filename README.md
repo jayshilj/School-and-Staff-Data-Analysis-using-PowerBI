@@ -1,6 +1,14 @@
 # School-and-Staff-Data-Analysis-using-PowerBI
 Creating a dashboard for reporting with in-depth drilling and customization of historical datasets of school datasets from 2009 to 2018
 
+The data comes from 30 csv files:
+Each Entity has a 10 years worth of data:
+
+Entities:
+1. Student
+2. Staff
+3. Schhol
+
 Using multiple csv files giving data based on each year and combining the files to create a data source.
 
 
